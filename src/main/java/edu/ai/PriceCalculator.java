@@ -25,4 +25,13 @@ public final class PriceCalculator {
     public void foo() {
         int xyz = 5;
     }
+
+    public void doSomething() {
+        int abc = 10;
+
+        if(true)
+            System.out.println("Hello World");
+
+
+    }
 }
