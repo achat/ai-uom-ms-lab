@@ -32,6 +32,8 @@ public final class PriceCalculator {
         if(true)
             System.out.println("Hello World");
 
+        int def = 15;
+
 
     }
 }
