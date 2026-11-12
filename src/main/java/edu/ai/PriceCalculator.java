@@ -34,6 +34,10 @@ public final class PriceCalculator {
 
         int def = 15;
 
+        if(true) {
+            def=17;
+        }
+
 
     }
 }
