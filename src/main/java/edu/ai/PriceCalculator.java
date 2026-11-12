@@ -38,6 +38,8 @@ public final class PriceCalculator {
             def=17;
         }
 
+        int k = 5;
+
 
     }
 }
