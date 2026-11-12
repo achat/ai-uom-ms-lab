@@ -21,4 +21,8 @@ public final class PriceCalculator {
         }
         return subtotal.setScale(2, RoundingMode.UNNECESSARY);
     }
+
+    public void foo() {
+        int xyz = 5;
+    }
 }
